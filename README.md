@@ -5,8 +5,9 @@
   <a href="https://www.linkedin.com/in/jhyevenes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=joacoh&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=joacoh&style=flat-square&color=blue" alt=""/>
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joacoh&theme=dark&hide_border=true)](https://git.io/streak-stats)
