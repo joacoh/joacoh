@@ -1,7 +1,9 @@
-<h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div id="hi" align="center">
+  <h1>
+    Hey there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/u9K8PUFussrbFbaze0/giphy.gif" width="500"/>
 </div>
@@ -17,7 +19,7 @@
 ---
 
 ### 👨‍🚀 About Me :
-I'm an Astrnomer and Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
+I'm an Astrnomer and Data Analyst <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="30"> from Chile.
 
 - 🔭 I’m working in my MS thesis project to model binary black holes for the ng-EHT collaboration in the Nucleo Milenio TITANs group.
 
