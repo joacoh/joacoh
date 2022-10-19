@@ -6,8 +6,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=joacoh&style=flat-square&color=blue" alt=""/>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joacoh&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
