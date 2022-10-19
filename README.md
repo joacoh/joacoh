@@ -25,7 +25,7 @@ I'm an Astrnomer and Data Analyst <img src="https://media.giphy.com/media/f6hnhH
 
 - 🌱 Actually learning Machine Learning and AI tools to use in my thesis and to continue to expand my knowledge.
 
-- 📫 Reach my at jhyevenes@outlook.es or jheryev@gmail.com
+- 📫 Reach me at jhyevenes@outlook.es or jheryev@gmail.com
 
 ---
 
