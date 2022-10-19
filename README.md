@@ -10,11 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=joacoh&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joacoh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacoh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **joacoh/joacoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
