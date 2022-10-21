@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍🚀 About Me :
-I'm an Astrnomer and Data Analyst <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="30"> from Chile.
+I'm an Astrnomer and Data Analyst <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> from Chile.
 
 - 🔭 I’m working in my MS thesis project to model binary black holes for the ng-EHT collaboration in the Nucleo Milenio TITANs group.
 
