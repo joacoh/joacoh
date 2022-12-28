@@ -25,7 +25,7 @@ I'm an Astronomer and Data Scientist <img src="https://media.giphy.com/media/5aY
 
 - 🌱 Actually learning Machine Learning and AI tools to use in my thesis and to continue to expand my knowledge.
 
-- 📫 Reach me at jhyevenes@outlook.es or jheryev@gmail.com
+- 📫 Reach me at jheryev@gmail.com
 
 ---
 
