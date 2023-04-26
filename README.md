@@ -21,7 +21,7 @@
 ### 👨‍🚀 About Me :
 I'm an Astronomer and Data Scientist <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> from Chile.
 
-- 🔭 I’m working in my MS thesis project to model the emission from supermassive black holes (SMBH) and SMBH binaries (SMBHB) for the ngEHT collaboration as part of the Núcleo Milenio TITANs group.
+- 🔭 I'm currently working in my MSc thesis project to predict masses and model the emission of supermassive black holes (SMBH) and SMBH binaries (SMBHB) for the ngEHT Collaboration, as part of the Núcleo Milenio TITANs group.
 
 - 🌱 Actually learning Machine Learning and AI tools to use in my thesis and to continue to expand my knowledge.
 
