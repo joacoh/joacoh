@@ -19,11 +19,11 @@
 ---
 
 ### 👨‍🚀 About Me :
-I'm an Astrophysicist and Data Scientist <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> from Chile 🇨🇱.
+I'm an Astronomer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> from Chile 🇨🇱.
 
-- 🔭 I'm currently working in my M.Sc thesis project to estimate masses of supermassive black holes (SMBH) using WISE calatoged data for the ngEHT Collaboration, as part of the Núcleo Milenio TITANs group.
+- 🔭 Currently working on my M.Sc. thesis project, estimating the masses of supermassive black holes (SMBH) using WISE cataloged data for the ngEHT Collaboration, as part of the Núcleo Milenio TITANS group.
 
-- 🌱 Constantly learning new Machine Learning and AI tools to use in my thesis, related works and to continue to expand my knowledge.
+- 🌱 Constantly learning new Machine Learning and AI tools to use in my thesis, related works, and to continue expanding my knowledge.
 
 - 📫 Reach me at my email clicking [here!](mailto:jheryev@gmail.com)
 
