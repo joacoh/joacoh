@@ -33,6 +33,6 @@ I'm an Astronomer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/gip
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joacoh&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joacoh&theme=python-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacoh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacoh&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
