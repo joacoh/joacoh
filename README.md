@@ -15,8 +15,6 @@
     <img src="https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=ORCID&logoColor=white&color=#A6CE39" alt="ORCID"/>
   </a>
 </div>
-<br>
-
 <div id="count" align="center">
   <img src="https://komarev.com/ghpvc/?username=joacoh&style=flat-square&color=blue" alt=""/>
 </div>
