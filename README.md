@@ -9,10 +9,10 @@
 </div>
 <div id="badges" align="center">
   <a href="https://joacoh.github.io">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=#304CB2" alt="Personal Webpage"/>
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=304CB2" alt="Personal Webpage"/>
   </a>
   <a href="https://orcid.org/0000-0001-5845-7538">
-    <img src="https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=ORCID&logoColor=white&color=#A6CE39" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=ORCID&logoColor=white&color=A6CE39" alt="ORCID"/>
   </a>
 </div>
 <div id="count" align="center">
