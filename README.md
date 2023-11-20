@@ -8,8 +8,8 @@
   <img src="https://media.giphy.com/media/u9K8PUFussrbFbaze0/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jhyevenes/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://joacoh.github.io">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Webpage"/>
   </a>
 </div>
 <div id="count" align="center">
