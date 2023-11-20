@@ -9,13 +9,10 @@
 </div>
 <div id="badges" align="center">
   <a href="https://joacoh.github.io">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Webpage"/>
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=#304CB2" alt="Personal Webpage"/>
   </a>
-</div>
-<div id="orcid" align="center">
-    <a href="https://orcid.org/0000-0001-5845-7538">
-    <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
-    0000-0001-5845-7538
+  <a href="https://orcid.org/0000-0001-5845-7538">
+    <img src="https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=ORCID&logoColor=white&color=#A6CE39" alt="ORCID"/>
   </a>
 </div>
 <br>
