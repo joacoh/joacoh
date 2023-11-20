@@ -9,7 +9,8 @@
 </div>
 <div id="badges" align="center">
   <a href="https://joacoh.github.io">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Webpage"/><a itemprop="sameAs" content="https://orcid.org/0000-0001-5845-7538" href="https://orcid.org/0000-0001-5845-7538" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon"></a>
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Webpage"/>
+    <a itemprop="sameAs" content="https://orcid.org/0000-0001-5845-7538" href="https://orcid.org/0000-0001-5845-7538" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
   </a>
 </div>
 <div id="count" align="center">
