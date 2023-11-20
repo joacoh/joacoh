@@ -11,10 +11,12 @@
   <a href="https://joacoh.github.io">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Webpage"/>
   </a>
-  <a href="https://orcid.org/0000-0001-5845-7538">
+</div>
+<div>
+    <a href="https://orcid.org/0000-0001-5845-7538">
     <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
     0000-0001-5845-7538
-    </a>
+  </a>
 </div>
 <div id="count" align="center">
   <img src="https://komarev.com/ghpvc/?username=joacoh&style=flat-square&color=blue" alt=""/>
