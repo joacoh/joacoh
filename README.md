@@ -24,11 +24,11 @@
 ### 👨‍🚀 About Me :
 I'm an Astronomer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> from Chile 🇨🇱.
 
-- 💼 Currently working as a Researcher and Technician at TITANs.
+- 💼 Currently working as a Researcher and Technician at TITANs. Set to start my PhD by May 2025 in Australia 🇦🇺.
 
-- 🔭 For my MSc thesis, I developed the WISE2MBH algorithm, a crucial part of the ETHER sample to estimate supermassive black hole masses using WISE cataloged data.
+- 🔭 My main work is related to estimate the mass of supermassive black holes, spectral fitting and statistical methods/analysis.
 
-- 🌱 Constantly learning new Machine Learning and AI tools to use in my work, related projects, and to continue expanding my knowledge.
+- 🌱 Constantly learning new ML and AI tools to use in my work, related projects, and to continue expanding my knowledge.
 
 - 📫 Reach me at my email clicking [here!](mailto:jheryev@gmail.com)
 
