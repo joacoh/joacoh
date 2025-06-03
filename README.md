@@ -27,7 +27,7 @@ I'm an Astronomer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/gip
 - 💼 Currently a PhD candidate @ Swinburne University of Technology in Melbourne, Australia 🇦🇺.
 
 - 🔭 My main work is related to outflows in galaxies, supermassive black holes, spectral fitting, statistical methods/analysis.
-- 
+  
 - 🌱 Constantly learning new ML and AI tools to use in my work, related projects, and to continue expanding my knowledge.
 
 - 📫 Reach me at my email clicking [here!](mailto:jheryev@gmail.com)
